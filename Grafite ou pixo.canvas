@@ -176,24 +176,34 @@
 			"height":220
 		},
 		{
-			"id":"857cc4334e0bf1d0",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{},
-			"x":860,
-			"y":1080,
-			"width":260,
-			"height":440
-		},
-		{
 			"id":"14dc45178e1ad153",
 			"type":"text",
-			"text":"### ****",
+			"text":"### **Assimilação - Grafite**\nO grafite e o pixo se separam. O grafite escolhe seguir",
 			"styleAttributes":{},
-			"x":120,
-			"y":1240,
+			"x":0,
+			"y":1280,
 			"width":380,
 			"height":360
+		},
+		{
+			"id":"857cc4334e0bf1d0",
+			"type":"text",
+			"text":"### **Radicalização - Pixo**",
+			"styleAttributes":{},
+			"x":660,
+			"y":1280,
+			"width":380,
+			"height":360
+		},
+		{
+			"id":"d121837874aafc4c",
+			"type":"text",
+			"text":"Divergência",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":461,
+			"y":1280,
+			"width":120,
+			"height":120
 		}
 	],
 	"edges":[
@@ -371,6 +381,34 @@
 			"fromSide":"bottom",
 			"toNode":"f7934b8b113c4e3c",
 			"toSide":"top"
+		},
+		{
+			"id":"44d793520c3d4ef4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f7934b8b113c4e3c",
+			"fromSide":"bottom",
+			"toNode":"d121837874aafc4c",
+			"toSide":"top",
+			"label":"1990"
+		},
+		{
+			"id":"42a760c444fa3eca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d121837874aafc4c",
+			"fromSide":"right",
+			"toNode":"857cc4334e0bf1d0",
+			"toSide":"left"
+		},
+		{
+			"id":"872e9de907df914c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d121837874aafc4c",
+			"fromSide":"left",
+			"toNode":"14dc45178e1ad153",
+			"toSide":"right"
 		}
 	],
 	"metadata":{
