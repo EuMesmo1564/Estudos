@@ -38,32 +38,6 @@
 			"color":"#ff00ff"
 		},
 		{
-			"id":"bc79f9c5870da10e",
-			"type":"text",
-			"text":"### Pixo ou Picho?\nPós ditadura e pós a influência estadunidense o nome \"picho\" iria sofrer uma mudança para \"pi**x**o\", pois o **x** da questão havia mudado, não era sobre protestar contra a ditadura, nem mesmo expressar-se de forma poética, era sobre dizer \"eu e**x**isto\".",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":940,
-			"y":52,
-			"width":240,
-			"height":240,
-			"color":"3"
-		},
-		{
-			"id":"c7788ae8a074a7df",
-			"type":"text",
-			"text":"[...] Que entendessem o que estava escrito não seria mais o “X” da questão. O “X” da questão estava no “pixo”, agora com “X” mesmo. Ou seja, existir e aparecer se tornou a melhor forma de comunicar: “eu estou aqui, eu te assombro com a realidade que a mídia de massas (dominante na comunicação urbana) esconde”.",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":1280,
-			"y":43,
-			"width":240,
-			"height":258,
-			"color":"3"
-		},
-		{
 			"id":"fb3af629441c01af",
 			"type":"text",
 			"text":"##### **Cultura de Rua?**\n\nHip-Hop\nBreaking\nSkate\nGrafite\nLowRider\n\n***Cultura de Rua:***\nResposta Criativa a respeito da estrutura marginalizante urbana.\n\nImportante ressaltar a existência de uma diferença da cultura de rua para a cultura urbana, mas também perceber a dialética nelas presentes.\n",
@@ -156,6 +130,32 @@
 		{"id":"191a414674bffd2e","type":"text","text":"### **Transformação**\nAmenização do fator de demarcação territorial e ascenção de novas técnicas de grafite para criar maior individualidade e proliferar seu nome na cena.","x":181,"y":360,"width":320,"height":200},
 		{"id":"0f3df51e3bb5e5a2","type":"text","text":"### **Novos Horizontes**\nO fim da ditadura trouxe uma paz e o pixo já não precisava ser utilizado no contexto de resistência, abriu espaço para uma remodelação da arte tornando-se mais poética.","x":540,"y":360,"width":320,"height":200},
 		{
+			"id":"bc79f9c5870da10e",
+			"type":"text",
+			"text":"### Pixo ou Picho?\nPós ditadura e pós a influência estadunidense o nome \"picho\" iria sofrer uma mudança para \"pi**x**o\", pois o **x** da questão havia mudado, não era sobre protestar contra a ditadura, nem mesmo expressar-se de forma poética, era sobre dizer \"eu e**x**isto\".",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":980,
+			"y":52,
+			"width":240,
+			"height":240,
+			"color":"3"
+		},
+		{
+			"id":"c7788ae8a074a7df",
+			"type":"text",
+			"text":"###### **OPINIÃO Grafite:**\npolítica, lazer e arte. Tudo que Dória não quer para a juventude.\n\n> [...] Que entendessem o que estava escrito não seria mais o “X” questão. O “X” da questão estava no “pixo”, agora com “X” mesmo. Ou seja, existir e aparecer se tornou a melhor forma de comunicar: “eu estou aqui, eu te assombro com a realidade que a mídia de massas (dominante na comunicação urbana) esconde”.",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":1340,
+			"y":7,
+			"width":380,
+			"height":330,
+			"color":"3"
+		},
+		{
 			"id":"0e637902e1c99e9d",
 			"type":"text",
 			"text":"### **Cultura Alheia**\nCom os portões abertos após o fim da ditadura, a cultura urbana estrangeira dos EUA apresentou-se a cultura \"nativa\" brasileira, de tal forma com que o pixo e o grafite momentaneamente nesse horizonte poético tornassem um só como arte.",
@@ -164,6 +164,16 @@
 			"y":660,
 			"width":359,
 			"height":220
+		},
+		{
+			"id":"f7934b8b113c4e3c",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":391,
+			"y":940,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -331,6 +341,15 @@
 			"fromNode":"0f3df51e3bb5e5a2",
 			"fromSide":"bottom",
 			"toNode":"0e637902e1c99e9d",
+			"toSide":"top"
+		},
+		{
+			"id":"6dc809a0e70de2c6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0e637902e1c99e9d",
+			"fromSide":"bottom",
+			"toNode":"f7934b8b113c4e3c",
 			"toSide":"top"
 		}
 	],
