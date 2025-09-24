@@ -40,7 +40,7 @@
 		{
 			"id":"fb3af629441c01af",
 			"type":"text",
-			"text":"##### **Cultura de Rua?**\n\nHip-Hop\nBreaking\nSkate\nGrafite\nLowRider\n\n***Cultura de Rua:***\nResposta Criativa a respeito da estrutura marginalizante urbana.\n\nImportante ressaltar a existência de uma diferença da cultura de rua para a cultura urbana, mas também perceber a dialética nelas presentes.\n",
+			"text":"##### **Cultura de Rua?**\n\nHip-Hop\nBreaking\nSkate\nGrafite\nLowRider\n\n***Cultura de Rua:***\nResposta Criativa a respeito da estrutura marginalizante urbana.\n\nImportante ressaltar a existência de uma diferença da cultura de rua para a cultura urbana, mas também perceber a dialética nelas presentes.",
 			"styleAttributes":{
 				"textAlign":null
 			},
@@ -53,7 +53,7 @@
 		{
 			"id":"7cd38d6897cb2705",
 			"type":"text",
-			"text":"### **Ascensão Individual**\nJovens periféricos escreviam seus nomes para que fora proliferar, assim, construindo uma certa fama e reconhecimento geral.\n",
+			"text":"### **Ascensão Individual**\nJovens periféricos escreviam seus nomes para que fora proliferar, assim, construindo uma certa fama e reconhecimento geral.",
 			"styleAttributes":{
 				"textAlign":null
 			},
@@ -81,9 +81,9 @@
 			"type":"text",
 			"text":"### **Cultura de Rua**\nA cultura de rua se trata dos costumes gerados em resposta da estrutura urbana marginalizante dos povos periféricos, povos esses que não se vêem pertencentes bem vindos de tal ambiente hostil, assim criando seu próprio ambiente e cultura que os aceita sem descriminalizar pela cor ou pela classe social.",
 			"styleAttributes":{},
-			"x":-1200,
+			"x":-1240,
 			"y":36,
-			"width":280,
+			"width":320,
 			"height":273,
 			"color":"#ff0000"
 		},
@@ -92,20 +92,20 @@
 			"type":"text",
 			"text":"### **Cultura Urbana**\nA cultura urbana por sua vez se trata a apropriação da cultura de rua para fins comerciais ou artísticos, fazendo assim que essa cultura de rua que muito foi e ainda é marginalizada transforme-se em um ícone do país, como o ocorrido no Brasil com o grafite e o samba, movimentos que foram criminalizados e marginalizados na sua origem mas hoje são marcas do país.",
 			"styleAttributes":{},
-			"x":-1200,
+			"x":-1240,
 			"y":356,
-			"width":280,
+			"width":320,
 			"height":273,
 			"color":"#5c1c00"
 		},
 		{
 			"id":"64f685f170f8547b",
 			"type":"text",
-			"text":"### **Estrutura Urbana**\nA estrutura urbana se trata da estrutura da cidade, desde os planejamentos urbanos, a cultura dominante e a ordem vigente. Planejamentos que valorizam certas áreas e negligenciam outras, cultura dominante (mainstream) que estigmatiza culturas periféricas e ordem vigente que trabalham a favor da classe detentora do capital",
+			"text":"### **Estrutura Urbana**\nA estrutura urbana se trata da estrutura da cidade, desde os planejamentos urbanos, a cultura dominante e a ordem vigente. Planejamentos que valorizam certas áreas e negligenciam outras, cultura dominante (mainstream) que estigmatiza culturas periféricas e ordem vigente que trabalham a favor da classe detentora do capital.",
 			"styleAttributes":{},
-			"x":-1200,
+			"x":-1240,
 			"y":-284,
-			"width":280,
+			"width":320,
 			"height":273,
 			"color":"#696969"
 		},
@@ -136,23 +136,10 @@
 			"styleAttributes":{
 				"textAlign":null
 			},
-			"x":980,
+			"x":960,
 			"y":52,
-			"width":240,
+			"width":280,
 			"height":240,
-			"color":"3"
-		},
-		{
-			"id":"c7788ae8a074a7df",
-			"type":"text",
-			"text":"###### **OPINIÃO Grafite:**\npolítica, lazer e arte. Tudo que Dória não quer para a juventude.\n\n> [...] Que entendessem o que estava escrito não seria mais o “X” questão. O “X” da questão estava no “pixo”, agora com “X” mesmo. Ou seja, existir e aparecer se tornou a melhor forma de comunicar: “eu estou aqui, eu te assombro com a realidade que a mídia de massas (dominante na comunicação urbana) esconde”.",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":1340,
-			"y":7,
-			"width":380,
-			"height":330,
 			"color":"3"
 		},
 		{
@@ -204,6 +191,19 @@
 			"y":1280,
 			"width":120,
 			"height":120
+		},
+		{
+			"id":"c7788ae8a074a7df",
+			"type":"text",
+			"text":"###### **OPINIÃO Grafite:**\npolítica, lazer e arte. Tudo que Dória não quer para a juventude.\n\n> [...] Que entendessem o que estava escrito não seria mais o “X” questão. O “X” da questão estava no “pixo”, agora com “X” mesmo. Ou seja, existir e aparecer se tornou a melhor forma de comunicar: “eu estou aqui, eu te assombro com a realidade que a mídia de massas (dominante na comunicação urbana) esconde”.",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":1340,
+			"y":30,
+			"width":380,
+			"height":285,
+			"color":"3"
 		}
 	],
 	"edges":[
