@@ -154,7 +154,17 @@
 		{"id":"b2e8a563902c4dbb","type":"text","text":"###### **Dialética Hegeliana**\nTese -> AntÍtese -> Síntese.\nTese sendo a ideia, Antítese sendo a negação dessa ideia e a Síntese sendo a uma nova ideia resultante do conflito da tese e antítese, fazendo assim a partir da Síntese gerada o surgimento de uma nova tese.","x":-880,"y":760,"width":349,"height":240,"color":"5"},
 		{"id":"f91a0191e1aa1d91","type":"text","text":"###### **Visão marxista do tema**\nCom a utilização das ideias de Marx se é possível enxergar a realidade de outra forma e trazer a Dialética do mundo das ideias para o mundo material, assim entendendo que todos os nossos costumes, crenças, culturas e tradições são frutos de uma sociedade material.","x":-440,"y":760,"width":349,"height":240,"color":"5"},
 		{"id":"191a414674bffd2e","type":"text","text":"### **Transformação**\nAmenização do fator de demarcação territorial e ascenção de novas técnicas de grafite para criar maior individualidade e proliferar seu nome na cena.","x":181,"y":360,"width":320,"height":200},
-		{"id":"0f3df51e3bb5e5a2","x":540,"y":360,"width":320,"height":200,"type":"text","text":"### **Novos Horizontes**\nO fim da ditadura trouxe uma paz e o pixo já não precisava ser utilizado no contexto de resistência, abriu espaço para uma remodelação da arte tornando-se mais poética."}
+		{"id":"0f3df51e3bb5e5a2","type":"text","text":"### **Novos Horizontes**\nO fim da ditadura trouxe uma paz e o pixo já não precisava ser utilizado no contexto de resistência, abriu espaço para uma remodelação da arte tornando-se mais poética.","x":540,"y":360,"width":320,"height":200},
+		{
+			"id":"0e637902e1c99e9d",
+			"type":"text",
+			"text":"### **Cultura Alheia**\nCom os portões abertos após o fim da ditadura, a cultura urbana estrangeira dos EUA apresentou-se a cultura ",
+			"styleAttributes":{},
+			"x":360,
+			"y":660,
+			"width":340,
+			"height":200
+		}
 	],
 	"edges":[
 		{"id":"d81e5a5e39af9ce4","fromFloating":false,"fromNode":"a0119a3c8473d344","fromSide":"bottom","toNode":"424e82818019d98b","toSide":"top","color":"#ff00d0","label":"1960-70"},
