@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "4d3ac3856dec839c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d217ad47a7694dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d388ec064469384",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Grafite ou pixo.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 356,
+                  "zoom": -0.9248426404312607
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Grafite ou pixo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cfb88b4dac11adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e44579be733ba0cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "379380ca8b3c54ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "fbaad65f0d764bb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "1f96939a7a8f3eb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa0ef8e297ee7962",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e6c71e227349c3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc3d541a1c69add1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Grafite ou pixo.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Grafite ou pixo"
+            }
+          },
+          {
+            "id": "eb94ff3af51f6c3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Grafite ou pixo.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Grafite ou pixo"
+            }
+          },
+          {
+            "id": "d3ff40302be3ff06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1f610a2e303c32a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Grafite ou pixo.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Grafite ou pixo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir visualização em gráfico": false,
+      "switcher:Abrir a troca rápida": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "github-sync:Sync with Remote": false,
+      "remotely-save:Remotely Save": false,
+      "remotely-secure:Remotely Sync": false
+    }
+  },
+  "active": "379380ca8b3c54ea",
+  "lastOpenFiles": [
+    "Estudos/ll",
+    "Estudos",
+    "Grafite ou pixo.canvas",
+    "Bem-vindo.md"
+  ]
+}
