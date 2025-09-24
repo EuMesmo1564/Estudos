@@ -150,9 +150,10 @@
 			"height":163,
 			"color":"#f700ff"
 		},
-		{"id":"b89056f6e618c96b","x":-664,"y":449,"width":349,"height":180,"color":"#00aaff","type":"text","text":"### **Dialética**\nÉ importante ressaltar que quando comento da existencia de uma dialetica estou me referindo do conceito Hegeliano com a visão marxista implementada."},
-		{"id":"b2e8a563902c4dbb","x":-880,"y":760,"width":349,"height":240,"color":"5","type":"text","text":"###### **Dialética Hegeliana**\nTese -> AntÍtese -> Síntese.\nTese sendo a ideia, Antítese sendo a negação dessa ideia e a Síntese sendo a uma nova ideia resultante do conflito da tese e antítese, fazendo assim a partir da Síntese gerada o surgimento de uma nova tese."},
-		{"id":"f91a0191e1aa1d91","x":-440,"y":760,"width":349,"height":240,"color":"5","type":"text","text":"###### **Visão marxista do tema**\nCom a utilização das ideias de Marx se é possível enxergar a realidade de outra forma e trazer a Dialética do mundo das ideias para o mundo material, assim entendendo que todos os nossos costumes, crenças, culturas e tradições são frutos de uma sociedade material."}
+		{"id":"b89056f6e618c96b","type":"text","text":"### **Dialética**\nÉ importante ressaltar que quando comento da existencia de uma dialetica estou me referindo do conceito Hegeliano com a visão marxista implementada.","x":-664,"y":449,"width":349,"height":180,"color":"#00aaff"},
+		{"id":"b2e8a563902c4dbb","type":"text","text":"###### **Dialética Hegeliana**\nTese -> AntÍtese -> Síntese.\nTese sendo a ideia, Antítese sendo a negação dessa ideia e a Síntese sendo a uma nova ideia resultante do conflito da tese e antítese, fazendo assim a partir da Síntese gerada o surgimento de uma nova tese.","x":-880,"y":760,"width":349,"height":240,"color":"5"},
+		{"id":"f91a0191e1aa1d91","type":"text","text":"###### **Visão marxista do tema**\nCom a utilização das ideias de Marx se é possível enxergar a realidade de outra forma e trazer a Dialética do mundo das ideias para o mundo material, assim entendendo que todos os nossos costumes, crenças, culturas e tradições são frutos de uma sociedade material.","x":-440,"y":760,"width":349,"height":240,"color":"5"},
+		{"id":"191a414674bffd2e","x":181,"y":360,"width":320,"height":260,"type":"text","text":"### **Transformação**\nAmenização do fator de demarcação territorial e ascenção de novas técnicas de grafite para criar maior individualidade "}
 	],
 	"edges":[
 		{"id":"d81e5a5e39af9ce4","fromFloating":false,"fromNode":"a0119a3c8473d344","fromSide":"bottom","toNode":"424e82818019d98b","toSide":"top","color":"#ff00d0","label":"1960-70"},
@@ -300,7 +301,8 @@
 		},
 		{"id":"2e43c9234ed84c92","fromNode":"b89056f6e618c96b","fromSide":"bottom","toNode":"b2e8a563902c4dbb","toSide":"top"},
 		{"id":"70d90ba36a67e44f","fromNode":"b89056f6e618c96b","fromSide":"bottom","toNode":"f91a0191e1aa1d91","toSide":"top"},
-		{"id":"f12bda2c68bc9645","fromNode":"fb3af629441c01af","fromSide":"bottom","toNode":"b89056f6e618c96b","toSide":"top"}
+		{"id":"f12bda2c68bc9645","fromNode":"fb3af629441c01af","fromSide":"bottom","toNode":"b89056f6e618c96b","toSide":"top"},
+		{"id":"ac41b6e98f746358","fromNode":"424e82818019d98b","fromSide":"bottom","toNode":"191a414674bffd2e","toSide":"top"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",

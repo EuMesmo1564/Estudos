@@ -15,9 +15,9 @@
               "state": {
                 "file": "Grafite ou pixo.canvas",
                 "viewState": {
-                  "x": -361.60841295344767,
-                  "y": 607.6358451845151,
-                  "zoom": -1.7257093885534511
+                  "x": 117.43308395792707,
+                  "y": 693.3913600178589,
+                  "zoom": -0.2915157593906946
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -157,7 +157,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5f63f378d2c627ce",
+  "active": "61217801ede04603",
   "lastOpenFiles": [
     "Pintooook"
   ]
