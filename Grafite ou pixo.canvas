@@ -158,12 +158,12 @@
 		{
 			"id":"0e637902e1c99e9d",
 			"type":"text",
-			"text":"### **Cultura Alheia**\nCom os portões abertos após o fim da ditadura, a cultura urbana estrangeira dos EUA apresentou-se a cultura ",
+			"text":"### **Cultura Alheia**\nCom os portões abertos após o fim da ditadura, a cultura urbana estrangeira dos EUA apresentou-se a cultura \"nativa\" brasileira, de tal forma com que o pixo e o grafite momentaneamente nesse horizonte poético tornassem um só como arte.",
 			"styleAttributes":{},
-			"x":360,
+			"x":341,
 			"y":660,
-			"width":340,
-			"height":200
+			"width":359,
+			"height":220
 		}
 	],
 	"edges":[
@@ -313,8 +313,26 @@
 		{"id":"2e43c9234ed84c92","fromNode":"b89056f6e618c96b","fromSide":"bottom","toNode":"b2e8a563902c4dbb","toSide":"top"},
 		{"id":"70d90ba36a67e44f","fromNode":"b89056f6e618c96b","fromSide":"bottom","toNode":"f91a0191e1aa1d91","toSide":"top"},
 		{"id":"f12bda2c68bc9645","fromNode":"fb3af629441c01af","fromSide":"bottom","toNode":"b89056f6e618c96b","toSide":"top"},
-		{"id":"ac41b6e98f746358","fromNode":"424e82818019d98b","fromSide":"bottom","toNode":"191a414674bffd2e","toSide":"top"},
-		{"id":"f6ecb6341d69b9d4","fromNode":"d774be727cc0f136","fromSide":"bottom","toNode":"0f3df51e3bb5e5a2","toSide":"top"}
+		{"id":"ac41b6e98f746358","fromFloating":false,"fromNode":"424e82818019d98b","fromSide":"bottom","toNode":"191a414674bffd2e","toSide":"top","label":"1980"},
+		{"id":"f6ecb6341d69b9d4","toFloating":false,"fromNode":"d774be727cc0f136","fromSide":"bottom","toNode":"0f3df51e3bb5e5a2","toSide":"top","label":"1980"},
+		{
+			"id":"5840f7017aa07234",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"191a414674bffd2e",
+			"fromSide":"bottom",
+			"toNode":"0e637902e1c99e9d",
+			"toSide":"top"
+		},
+		{
+			"id":"edd2117cb73f6cd2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0f3df51e3bb5e5a2",
+			"fromSide":"bottom",
+			"toNode":"0e637902e1c99e9d",
+			"toSide":"top"
+		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
