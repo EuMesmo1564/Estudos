@@ -15,9 +15,9 @@
               "state": {
                 "file": "Grafite ou pixo.canvas",
                 "viewState": {
-                  "x": 160,
-                  "y": 356,
-                  "zoom": -0.9248426404312607
+                  "x": 497.0704132909061,
+                  "y": 320.93760861193164,
+                  "zoom": 0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -173,7 +173,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "379380ca8b3c54ea",
+  "active": "8d388ec064469384",
   "lastOpenFiles": [
     "ll",
     "Estudos/ll",
