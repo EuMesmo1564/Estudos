@@ -174,6 +174,26 @@
 			"y":940,
 			"width":359,
 			"height":220
+		},
+		{
+			"id":"857cc4334e0bf1d0",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":860,
+			"y":1080,
+			"width":260,
+			"height":440
+		},
+		{
+			"id":"14dc45178e1ad153",
+			"type":"text",
+			"text":"### ****",
+			"styleAttributes":{},
+			"x":120,
+			"y":1240,
+			"width":380,
+			"height":360
 		}
 	],
 	"edges":[
