@@ -170,9 +170,7 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "github-sync:Sync with Remote": false,
-      "remotely-save:Remotely Save": false,
-      "remotely-secure:Remotely Sync": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "379380ca8b3c54ea",
