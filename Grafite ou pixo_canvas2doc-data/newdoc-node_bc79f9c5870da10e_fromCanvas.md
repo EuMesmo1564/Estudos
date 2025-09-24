@@ -1,0 +1,2 @@
+### Pixo ou Picho?
+Pós ditadura e pós a influência estadunidense o nome "picho" iria sofrer uma mudança para "pi**x**o", pois o **x** da questão havia mudado, não era sobre protestar contra a ditadura, nem mesmo expressar-se de forma poética, era sobre dizer "eu e**x**isto".

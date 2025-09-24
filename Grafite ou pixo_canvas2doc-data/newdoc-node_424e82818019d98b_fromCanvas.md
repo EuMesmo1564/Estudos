@@ -1,0 +1,2 @@
+   ### **surgimento do grafite?**
+O grafite surge em New York - EUA, nos anos de 60/70, em resposta da estrutura social desigual que estava sendo apresentada para os jovens negros marginalizados da periferia.

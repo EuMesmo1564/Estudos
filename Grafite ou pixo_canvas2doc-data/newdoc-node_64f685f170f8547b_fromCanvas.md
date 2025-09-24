@@ -1,0 +1,2 @@
+### **Estrutura Urbana**
+A estrutura urbana se trata da estrutura da cidade, desde os planejamentos urbanos, a cultura dominante e a ordem vigente. Planejamentos que valorizam certas áreas e negligenciam outras, cultura dominante (mainstream) que estigmatiza culturas periféricas e ordem vigente que trabalham a favor da classe detentora do capital

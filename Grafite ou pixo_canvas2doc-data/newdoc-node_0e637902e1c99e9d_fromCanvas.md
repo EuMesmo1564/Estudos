@@ -1,0 +1,2 @@
+### **Cultura Alheia**
+Com os portões abertos após o fim da ditadura, a cultura urbana estrangeira dos EUA apresentou-se a cultura "nativa" brasileira, de tal forma com que o pixo e o grafite momentaneamente nesse horizonte poético tornassem um só como arte.

@@ -1,4 +1,5 @@
 [
   "github-sync",
-  "advanced-canvas"
+  "advanced-canvas",
+  "canvas2document"
 ]

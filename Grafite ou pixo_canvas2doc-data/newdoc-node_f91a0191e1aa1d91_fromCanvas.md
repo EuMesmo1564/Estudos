@@ -1,0 +1,2 @@
+###### **Visão marxista do tema**
+Com a utilização das ideias de Marx se é possível enxergar a realidade de outra forma e trazer a Dialética do mundo das ideias para o mundo material, assim entendendo que todos os nossos costumes, crenças, culturas e tradições são frutos de uma sociedade material.

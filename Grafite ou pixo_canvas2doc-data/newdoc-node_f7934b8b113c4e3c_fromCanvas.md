@@ -1,0 +1,2 @@
+#### **União do Grafite e Pixo**
+tornando-se um só como arte, passou a ser chamado de grafite as artes coloridas vindas da Norte-América e a pixação poética, tanto o grafite quanto a pixação tiveram mudanças nas suas filosofias por conta do contexto social do período.

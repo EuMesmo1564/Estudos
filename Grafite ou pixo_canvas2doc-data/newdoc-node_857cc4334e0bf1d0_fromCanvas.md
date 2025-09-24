@@ -1,0 +1,2 @@
+### **Radicalização - Pixo**
+O grafite e o pixo se separam. O pixo escolhe seguir um caminho de radicalização de suas origens, o que significa que se em sua origem a ideia era ser um incomodo, agora era tormento, abandonou as frases poéticas para o pixo reto e rebelou-se contra qualquer legislação que impedia-o de expressar sua essência antissistema, agressiva e ilegal.

@@ -1,0 +1,2 @@
+ ### **Surgimento do Pixo**?
+O Pixo surge no brasil nos anos de 60/70, no contexto da ditadura militar, surge como uma forma de protestar contra a ditadura através da escrita nas paredes, com o "picho", material utilizado.

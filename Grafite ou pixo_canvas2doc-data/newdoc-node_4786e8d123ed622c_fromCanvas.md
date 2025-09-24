@@ -1,0 +1,2 @@
+"Não importa a mensagem, mas sim a onde"
+Esse comentário ressalta o verdadeiro significado do picho. A adrenalina de deixar sua marca em um lugar considerável incomodo e de difícil acesso as mãos da burguesia, é a essência.

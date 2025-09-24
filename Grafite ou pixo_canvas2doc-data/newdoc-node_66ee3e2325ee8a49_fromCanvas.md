@@ -1,0 +1,2 @@
+### **Cultura Urbana**
+A cultura urbana por sua vez se trata a apropriação da cultura de rua para fins comerciais ou artísticos, fazendo assim que essa cultura de rua que muito foi e ainda é marginalizada transforme-se em um ícone do país, como o ocorrido no Brasil com o grafite e o samba, movimentos que foram criminalizados e marginalizados na sua origem mas hoje são marcas do país.

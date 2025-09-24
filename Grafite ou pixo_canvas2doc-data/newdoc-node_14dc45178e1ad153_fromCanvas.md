@@ -1,0 +1,2 @@
+### **Assimilação - Grafite**
+O grafite e o pixo se separam. O grafite escolhe seguir um caminho de Assimilação cultural internacional, assim, crescendo sua influencia ao redor no mundo como arte e posteriormente seria apropriada para fins de mercado e artísticos e ganharia relevância e reconhecimento pelo mundo todo, sendo o Brasil uma das maiores referencias até hoje.

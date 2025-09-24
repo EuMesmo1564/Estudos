@@ -1,0 +1,2 @@
+### **Cultura de Rua**
+A cultura de rua se trata dos costumes gerados em resposta da estrutura urbana marginalizante dos povos periféricos, povos esses que não se vêem pertencentes bem vindos de tal ambiente hostil, assim criando seu próprio ambiente e cultura que os aceita sem descriminalizar pela cor ou pela classe social.
