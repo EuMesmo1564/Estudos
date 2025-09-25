@@ -127,8 +127,8 @@
 		{"id":"b89056f6e618c96b","type":"text","text":"### **Dialética**\nÉ importante ressaltar que quando comento da existencia de uma dialetica estou me referindo do conceito Hegeliano com a visão marxista implementada.","x":-664,"y":449,"width":349,"height":180,"color":"#00aaff"},
 		{"id":"b2e8a563902c4dbb","type":"text","text":"###### **Dialética Hegeliana**\nTese -> AntÍtese -> Síntese.\nTese sendo a ideia, Antítese sendo a negação dessa ideia e a Síntese sendo a uma nova ideia resultante do conflito da tese e antítese, fazendo assim a partir da Síntese gerada o surgimento de uma nova tese.","x":-880,"y":760,"width":349,"height":240,"color":"5"},
 		{"id":"f91a0191e1aa1d91","type":"text","text":"###### **Visão marxista do tema**\nCom a utilização das ideias de Marx se é possível enxergar a realidade de outra forma e trazer a Dialética do mundo das ideias para o mundo material, assim entendendo que todos os nossos costumes, crenças, culturas e tradições são frutos de uma sociedade material.","x":-440,"y":760,"width":349,"height":240,"color":"5"},
-		{"id":"191a414674bffd2e","type":"text","text":"### **Transformação**\nAmenização do fator de demarcação territorial e ascenção de novas técnicas de grafite para criar maior individualidade e proliferar seu nome na cena.","x":181,"y":360,"width":320,"height":200},
-		{"id":"0f3df51e3bb5e5a2","type":"text","text":"### **Novos Horizontes**\nO fim da ditadura trouxe uma paz e o pixo já não precisava ser utilizado no contexto de resistência, abriu espaço para uma remodelação da arte tornando-se mais poética.","x":540,"y":360,"width":320,"height":200},
+		{"id":"191a414674bffd2e","type":"text","text":"### **Transformação**\nAmenização do fator de demarcação territorial e ascenção de novas técnicas de grafite para criar maior individualidade e proliferar seu nome na cena.","x":181,"y":360,"width":320,"height":200,"color":"#ff00ff"},
+		{"id":"0f3df51e3bb5e5a2","type":"text","text":"### **Novos Horizontes**\nO fim da ditadura trouxe uma paz e o pixo já não precisava ser utilizado no contexto de resistência, abriu espaço para uma remodelação da arte tornando-se mais poética.","x":540,"y":360,"width":320,"height":200,"color":"#ff0000"},
 		{
 			"id":"bc79f9c5870da10e",
 			"type":"text",
@@ -150,7 +150,8 @@
 			"x":341,
 			"y":660,
 			"width":359,
-			"height":220
+			"height":220,
+			"color":"#ff0066"
 		},
 		{
 			"id":"f7934b8b113c4e3c",
@@ -160,7 +161,8 @@
 			"x":341,
 			"y":940,
 			"width":359,
-			"height":220
+			"height":220,
+			"color":"#ff0059"
 		},
 		{
 			"id":"14dc45178e1ad153",
@@ -170,7 +172,8 @@
 			"x":0,
 			"y":1280,
 			"width":380,
-			"height":280
+			"height":280,
+			"color":"#ff00ff"
 		},
 		{
 			"id":"857cc4334e0bf1d0",
@@ -180,7 +183,8 @@
 			"x":660,
 			"y":1280,
 			"width":380,
-			"height":280
+			"height":280,
+			"color":"#ff0000"
 		},
 		{
 			"id":"d121837874aafc4c",
@@ -190,12 +194,13 @@
 			"x":461,
 			"y":1280,
 			"width":120,
-			"height":120
+			"height":120,
+			"color":"4"
 		},
 		{
 			"id":"c7788ae8a074a7df",
 			"type":"text",
-			"text":"###### **OPINIÃO Grafite:**\npolítica, lazer e arte. Tudo que Dória não quer para a juventude.\n\n> [...] Que entendessem o que estava escrito não seria mais o “X” questão. O “X” da questão estava no “pixo”, agora com “X” mesmo. Ou seja, existir e aparecer se tornou a melhor forma de comunicar: “eu estou aqui, eu te assombro com a realidade que a mídia de massas (dominante na comunicação urbana) esconde”.",
+			"text":"###### **OPINIÃO Grafite:**\npolítica, lazer e arte. Tudo que Dória não quer para a juventude.\n\n> [...] Que entendessem o que estava escrito não seria mais o “X” questão. O “X” da questão estava no “pixo”, agora com “X” mesmo. Ou seja, existir e aparecer se tornou a melhor forma de comunicar: “eu estou aqui, eu te assombro com a realidade que a mídia de massas (dominante na comunicação urbana) esconde”.\n\nAlém dessa ideia, o nome dado \"picho\" ou \"pixo\" também é regional, certos lugares chamarão de um jeito e outros de outro.",
 			"styleAttributes":{
 				"textAlign":null
 			},
@@ -204,6 +209,36 @@
 			"width":380,
 			"height":285,
 			"color":"3"
+		},
+		{
+			"id":"d0cbc5747f85ed33",
+			"type":"text",
+			"text":"Raiva\ndirecionada",
+			"styleAttributes":{"shape":"diamond","textAlign":"center"},
+			"x":1120,
+			"y":1370,
+			"width":100,
+			"height":100
+		},
+		{
+			"id":"3f2748c1f98a03ee",
+			"type":"text",
+			"text":"#### **Mainstream**\nCom a marginalização e criminalização crescendo ainda mais por conta da radicalização, os veículos de mídia mainstream (principais da classe dominante) seguiam ignorando a revolta dos pixos e fingindo sua inexistência, o que potencializava ainda mais os pixadores que queriam mais do que nunca chamar a atenção da classe dominante.",
+			"styleAttributes":{},
+			"x":1260,
+			"y":1470,
+			"width":380,
+			"height":280
+		},
+		{
+			"id":"54f363bbf5e3f7c0",
+			"type":"text",
+			"text":"#### **Media e Grande Burguesia**\nO pixo agora visava atormentar, mas atormentar a quem? Atormentar a média e grande burguesia, que se sentiam intocáveis em seus apartamentos de inúmeros andares, quando acordassem e olhassem pro alto de sua sacada veriam estampado a revolta dos pixadores, pois a altura não mais impediria o ressoar de suas vozes.",
+			"styleAttributes":{},
+			"x":1260,
+			"y":1090,
+			"width":380,
+			"height":280
 		}
 	],
 	"edges":[
@@ -350,9 +385,9 @@
 			"toSide":"left",
 			"color":"#571e00"
 		},
-		{"id":"2e43c9234ed84c92","fromNode":"b89056f6e618c96b","fromSide":"bottom","toNode":"b2e8a563902c4dbb","toSide":"top"},
-		{"id":"70d90ba36a67e44f","fromNode":"b89056f6e618c96b","fromSide":"bottom","toNode":"f91a0191e1aa1d91","toSide":"top"},
-		{"id":"f12bda2c68bc9645","fromNode":"fb3af629441c01af","fromSide":"bottom","toNode":"b89056f6e618c96b","toSide":"top"},
+		{"id":"2e43c9234ed84c92","toFloating":false,"fromNode":"b89056f6e618c96b","fromSide":"bottom","toNode":"b2e8a563902c4dbb","toSide":"top","color":"5"},
+		{"id":"70d90ba36a67e44f","fromFloating":false,"fromNode":"b89056f6e618c96b","fromSide":"bottom","toNode":"f91a0191e1aa1d91","toSide":"top","color":"5"},
+		{"id":"f12bda2c68bc9645","fromFloating":false,"toFloating":false,"fromNode":"fb3af629441c01af","fromSide":"bottom","toNode":"b89056f6e618c96b","toSide":"top","color":"6"},
 		{"id":"ac41b6e98f746358","fromFloating":false,"fromNode":"424e82818019d98b","fromSide":"bottom","toNode":"191a414674bffd2e","toSide":"top","label":"1980"},
 		{"id":"f6ecb6341d69b9d4","toFloating":false,"fromNode":"d774be727cc0f136","fromSide":"bottom","toNode":"0f3df51e3bb5e5a2","toSide":"top","label":"1980"},
 		{
@@ -409,6 +444,33 @@
 			"fromSide":"left",
 			"toNode":"14dc45178e1ad153",
 			"toSide":"right"
+		},
+		{
+			"id":"0114b109bf9783a1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"857cc4334e0bf1d0",
+			"fromSide":"right",
+			"toNode":"d0cbc5747f85ed33",
+			"toSide":"left"
+		},
+		{
+			"id":"41bee8da264722b2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d0cbc5747f85ed33",
+			"fromSide":"top",
+			"toNode":"54f363bbf5e3f7c0",
+			"toSide":"left"
+		},
+		{
+			"id":"a114a85d0ab3d3ca",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d0cbc5747f85ed33",
+			"fromSide":"bottom",
+			"toNode":"3f2748c1f98a03ee",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
